@@ -41,26 +41,35 @@ This is a YouTube clone built with **React** and **Vite**, using the YouTube API
 
 ## 📦 Installation and Launch
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   ```
-2. Enter the project folder:
-   ```bash
-   cd nombre-del-proyecto
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Create a `.env` file in the root of your project and add your YouTube API key:
-   ```plaintext
-   VITE_YOUTUBE_API_KEY=TU_CLAVE_AQUI
-   ```
-5. Start the development server:
-   ```bash
-   npm run dev
-   ```
+#### 1. Clone the repository:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+```
+
+#### 2. Enter the project folder:
+
+```bash
+cd nombre-del-proyecto
+```
+
+#### 3. Install the dependencies:
+
+```bash
+npm install
+```
+
+#### 4. Create a `.env` file in the root of your project and add your YouTube API key:
+
+```plaintext
+VITE_YOUTUBE_API_KEY=TU_CLAVE_AQUI
+```
+
+#### 5. Start the development server:
+
+```bash
+npm run dev
+```
 
 ## 🔑 Environment Variables
 
@@ -79,7 +88,7 @@ VITE_YOUTUBE_API_KEY=your_api_key
 
 ## 🌍 Project Online
 
-🔗 [See the project here](https://vercel.com)
+🔗 [See the project here](https://youtube-clone-juan-amadors-projects.vercel.app/)
 
 ## 👨‍💻 Author
 
